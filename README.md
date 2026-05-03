@@ -1,8 +1,3 @@
-It looks like you've got a solid foundation for a standout profile! To make these points really "pop" on a GitHub README, you can organize them into a clean, professional layout. 
-
-Here is a condensed, bio-style version you can paste directly into the GPRM "About Me" section:
-
----
 
 ## 👋 About Me
 
